@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color:mediumslateblue
+    
+}
+
+#button_sort{
+    display: none;
+}
+
+ol.guestlist>li
+{
+ padding-right: 35px;  
+
+}
